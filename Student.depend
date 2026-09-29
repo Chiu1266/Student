@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1775990922 source:d:\c program\management system\student\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"Student.h"
+
+1775971964 d:\c program\management system\student\student.h
+	<stdio.h>
+	<stdlib.h>
+
+1776231085 source:c:\users\26484\desktop\student\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"Student.h"
+
+1776230521 c:\users\26484\desktop\student\student.h
+	<stdio.h>
+	<stdlib.h>
+
+1776231085 source:c:\users\26484\desktop\代码清单\student\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"Student.h"
+
+1776230521 c:\users\26484\desktop\代码清单\student\student.h
+	<stdio.h>
+	<stdlib.h>
+
